@@ -160,4 +160,9 @@ export const THEMES = [
     label: "Sunset",
     colors: ["#1e293b", "#f5734c", "#ec4899", "#ffffff"],
   },
+  {
+    name: "black",
+    label: "Black",
+    colors: ["#0d1117", "#161b22", "#58a6ff", "#f0f6fc"]
+  }
 ];
