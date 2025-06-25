@@ -23,7 +23,7 @@ const Left = () => {
         src="mine3.jpg"
         alt="Ahmad"
         className="rounded-full size-52 sm:size-60 md:size-80 border-4 border-primary-content shadow-lg"
-        animate={{ y: [0, -3.5, 0] }}
+        animate={{ y: [0, -5, 0] }}
         transition={{
           duration: 3,
           repeat: Infinity,
