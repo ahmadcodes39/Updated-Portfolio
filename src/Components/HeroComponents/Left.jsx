@@ -8,13 +8,13 @@ const Left = () => {
       {/* Social Icons */}
       <div className="flex md:flex-col gap-4">
         <a href="https://github.com/ahmadcodes39" target="_blank" rel="noopener noreferrer">
-          <Github className="text-primary-content hover:text-secondary transition size-6" />
+          <Github className="text-primary hover:text-secondary transition size-6" />
         </a>
         <a href="https://www.linkedin.com/in/syed-ahmad-ali-3461012a9/" target="_blank" rel="noopener noreferrer">
-          <Linkedin className="text-primary-content hover:text-secondary transition size-6" />
+          <Linkedin className="text-primary hover:text-secondary transition size-6" />
         </a>
         <a href="mailto:syedahmadalishah39@gmail.com">
-          <Mail className="text-primary-content hover:text-secondary transition size-6" />
+          <Mail className="text-primary hover:text-secondary transition size-6" />
         </a>
       </div>
 

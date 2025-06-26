@@ -20,46 +20,87 @@ const Projects = () => {
       title: "Resume Analyzer",
       description:
         "Built an AI-driven platform to analyze resumes against job descriptions with PDF parsing and match scoring",
-      technology: ["React", "Tailwind css", "Node js", "Express js", "Mongodb", "multer"],
+      technology: [
+        "React",
+        "Tailwind css",
+        "Node js",
+        "Express js",
+        "Mongodb",
+        "multer",
+      ],
       projectType: "MERN",
       image: "resume-analyzer.png",
       link: "https://github.com/ahmadcodes39/Resume-Analyzer",
     },
     {
       title: "Learnify",
-      description: "Real-time chat and video call platform with user profiles and language matching.",
-      technology: ["React", "Tailwind css", "Node js", "Express js", "Mongodb", "Stream API", "Daisyui"],
+      description:
+        "Real-time chat and video call platform with user profiles and language matching.",
+      technology: [
+        "React",
+        "Tailwind css",
+        "Node js",
+        "Express js",
+        "Mongodb",
+        "Stream API",
+        "Daisyui",
+      ],
       projectType: "MERN",
       image: "learnify.png",
       link: "https://github.com/ahmadcodes39/Language-Exchange",
     },
     {
       title: "Blog App",
-      description: "Authenticated blog with CRUD, JWT, and RESTful API integration.",
-      technology: ["React", "Tailwind css", "Node js", "Express js", "Mongodb", "multer"],
+      description:
+        "Authenticated blog with CRUD, JWT, and RESTful API integration.",
+      technology: [
+        "React",
+        "Tailwind css",
+        "Node js",
+        "Express js",
+        "Mongodb",
+        "multer",
+      ],
       projectType: "MERN",
       image: "blogApp.png",
       link: "https://github.com/ahmadcodes39/BlogApp-frontend",
     },
     {
       title: "Food Recipe App",
-      description: "A responsive recipe app to explore, view, and manage delicious meals with step-by-step instructions.",
-      technology: ["React", "Tailwind css", "Node js", "Express js", "Mongodb", "multer"],
+      description:
+        "A responsive recipe app to explore, view, and manage delicious meals with step-by-step instructions.",
+      technology: [
+        "React",
+        "Tailwind css",
+        "Node js",
+        "Express js",
+        "Mongodb",
+        "multer",
+      ],
       projectType: "MERN",
       image: "food.jpg",
       link: "https://github.com/ahmadcodes39/Food-Recipe-App-frontend",
     },
     {
       title: "Expense Tracker App",
-      description: "Tracks income, expenses, and budget with secure login and dynamic chart visualization.",
-      technology: ["React", "Tailwind css", "Node js", "Express js", "Mongodb", "Recharts.js"],
+      description:
+        "Tracks income, expenses, and budget with secure login and dynamic chart visualization.",
+      technology: [
+        "React",
+        "Tailwind css",
+        "Node js",
+        "Express js",
+        "Mongodb",
+        "Recharts.js",
+      ],
       projectType: "MERN",
       image: "ExpenseTracker.png",
       link: "https://github.com/ahmadcodes39/Expense-Tracker-App",
     },
     {
       title: "Text Tools",
-      description: "A text utility app for quick formatting: case conversion, space cleanup, clipboard tools and more.",
+      description:
+        "A text utility app for quick formatting: case conversion, space cleanup, clipboard tools and more.",
       technology: ["React", "Bootstrap"],
       projectType: "React",
       image: "texttools.png",
@@ -67,7 +108,8 @@ const Projects = () => {
     },
     {
       title: "Daily Digest News",
-      description: "News app fetching real-time headlines using public API, styled with Bootstrap for clean UI.",
+      description:
+        "News app fetching real-time headlines using public API, styled with Bootstrap for clean UI.",
       technology: ["React", "Bootstrap"],
       projectType: "React",
       image: "news.jpg",
@@ -75,7 +117,8 @@ const Projects = () => {
     },
     {
       title: "Blood Bank Portal",
-      description: "Manage blood donations, inventory, and donors using ASP.NET MVC and SQL Server.",
+      description:
+        "Manage blood donations, inventory, and donors using ASP.NET MVC and SQL Server.",
       technology: ["C#", "SQL Server", "MVC"],
       projectType: "ASP.NET",
       image: "blood.jpg",
@@ -83,11 +126,21 @@ const Projects = () => {
     },
     {
       title: "Sentiment Analysis using BERT",
-      description: "Fine-tuned multilingual BERT on 60K Urdu sentences (93.7% accuracy) using Hugging Face Trainer API.",
+      description:
+        "Fine-tuned multilingual BERT on 60K Urdu sentences (93.7% accuracy) using Hugging Face Trainer API.",
       technology: ["Python", "Hugging Face", "Transformers", "PyTorch"],
       projectType: "NLP",
       image: "nlp.jpeg",
       link: "https://drive.google.com/drive/folders/18ZYIKE012IGO8ugcKH63KOCExL3WHKpO?usp=sharing",
+    },
+    {
+      title: "Efficient Parking System",
+      description:
+        "Developed a WPF-based parking system with real-time slot tracking, reservation, and payment. Included full UML documentation.",
+      technology: ["C#", "WPF", "XAML", "SQL Server"],
+      projectType: "Desktop App",
+      image: "parking.jpeg",
+      link: "https://github.com/ahmadcodes39/SE-project",
     },
   ];
 
