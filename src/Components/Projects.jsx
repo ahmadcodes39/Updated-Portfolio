@@ -134,7 +134,7 @@ const Projects = () => {
       link: "https://drive.google.com/drive/folders/18ZYIKE012IGO8ugcKH63KOCExL3WHKpO?usp=sharing",
     },
     {
-      title: "Efficient Parking System",
+      title: "Parking System",
       description:
         "Developed a WPF-based parking system with real-time slot tracking, reservation, and payment. Included full UML documentation.",
       technology: ["C#", "WPF", "XAML", "SQL Server"],
