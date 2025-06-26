@@ -13,7 +13,7 @@ const Right = () => {
       <h1 className="text-2xl sm:text-4xl md:text-5xl font-bold font-mono leading-snug">
         <span className="text-primary-content">Hi, I'm</span>
         <span className="block bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary tracking-wide">
-          Ahmad Ali Shah
+          Syed Ahmad Ali Shah
         </span>
       </h1>
 
