@@ -23,7 +23,7 @@ const Right = () => {
 
       <div className="flex flex-wrap gap-4 mt-4">
         <a
-          href="projects"
+          href="project"
           className="btn btn-primary btn-sm sm:btn-md rounded-md shadow-md hover:scale-105 transition-transform duration-200"
         >
           View Projects
