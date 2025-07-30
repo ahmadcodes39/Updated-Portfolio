@@ -17,6 +17,24 @@ const cardVariants = {
 const Projects = () => {
   const data = [
     {
+      title: "AI MicroMentor",
+      description:
+        "Developed an AI-powered learning platform offering personalized mentorship, course creation, and progress tracking using LLM integration.",
+      technology: [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "daisyui",
+        "JWT",
+        "Togeather.ai API",
+      ],
+      projectType: "MERN",
+      image: "micromentor 1.jpg",
+      link: "https://github.com/your-username/AI-MicroMentor",
+    },
+    {
       title: "Resume Analyzer",
       description:
         "Built an AI-driven platform to analyze resumes against job descriptions with PDF parsing and match scoring",
